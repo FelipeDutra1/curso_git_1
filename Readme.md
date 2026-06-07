@@ -35,9 +35,16 @@ Temos o primeiro readme criado atraves do curso de **git** e **github** do _hora
 
 [Google](https://www.google.com/)
 
+### Adicionando codigo 
+
 ```TypeScript
   function (a:number, b:number){
     return a + b
   }
 
 ```
+
+### Adicionando lista de tarefas
+- [x] Lavar a casa
+- [ ] treinar
+- [X] estudar
