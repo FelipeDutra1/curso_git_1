@@ -1,3 +1,11 @@
 h1 {
     color: red;
 }
+
+h2{
+    color: black;
+}
+
+h3{
+    color: black;
+}
