@@ -25,3 +25,7 @@ Temos o primeiro readme criado atraves do curso de **git** e **github** do _hora
 4. Gerente
 
 5. Diretor
+
+### Adicionando imagem
+
+![Logo readme](https://tse1.mm.bing.net/th/id/OIP.qPUhpHZg1Af6X2fqjy3TawHaHa?r=0&cb=thfvnextfalcon2&rs=1&pid=ImgDetMain&o=7&rm=3)
