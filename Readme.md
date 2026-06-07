@@ -34,3 +34,10 @@ Temos o primeiro readme criado atraves do curso de **git** e **github** do _hora
 ### Adicionando um link 
 
 [Google](https://www.google.com/)
+
+```TypeScript
+  function (a:number, b:number){
+    return a + b
+  }
+
+```
