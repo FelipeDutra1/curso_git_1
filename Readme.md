@@ -14,7 +14,10 @@ Temos o primeiro readme criado atraves do curso de **git** e **github** do _hora
 ### Lista ordenadas de funções
 
 1. Programador
-
+   1. Estagiario
+   2. Desenvolvedor junior
+   3. Desenvolvedor pleno
+   4. Desenvolvedor senior 
 2. TechLead
 
 3. QA
